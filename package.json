@@ -8,11 +8,13 @@
 		"name": "Adrian Ber",
 		"email": "beradrian@yahoo.com"
 	},
-
 	"repository": 
 	{
 		"type": "git",
 		"url": "https://github.com/beradrian/odata-v4-server-shim.git"
 	},
-	"main": "index.js"
+	"main": "index.js",
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org/"
+	}
 }
