@@ -11,6 +11,12 @@ Just install this shim
 npm i odata-v4-server-shim
 ```
 
+or
+
+```
+npm i https://github.com/beradrian/odata-v4-server-shim.git
+```
+
 and then add the path to your tsconfig
 
 ```typescript
