@@ -4,6 +4,8 @@ function NoOp(options) {
 }
 
 exports.Edm = {
+  EntityType: NoOp,
+  ForwardRef: NoOp,
   Binary: NoOp,
   Boolean: NoOp,
   Byte: NoOp,
