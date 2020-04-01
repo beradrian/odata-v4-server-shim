@@ -1,7 +1,7 @@
 {
 	"name": "odata-v4-server-shim",
 	"license": "MIT",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "odata-v4-server shim for frontend",
 	"author": 
 	{
